@@ -1,0 +1,10 @@
+export 'GlobalNews.dart';
+export 'TrendingNews.dart';
+export 'GeneralNews.dart';
+export 'EntNews.dart';
+export 'BusinessNews.dart';
+export 'HealthNews.dart';
+export 'ScienceNews.dart';
+export 'SportsNews.dart';
+export 'TechNews.dart';
+export 'NewsArticle.dart';
